@@ -9,7 +9,7 @@ pip - מנהל החבילות של Python (מותקן אוטומטית עם Pyth
 
 אם אתה משתמש ב-Git, הפעל את הפקודה הבאה:
 
-bash
+
 Copy
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
@@ -19,21 +19,21 @@ cd your-repo-name
 
 הפעל את הפקודה הבאה כדי להתקין את החבילות הדרושות:
 
-bash
-Copy
+
+
 pip install Flask requests
 הפעל את שרת Flask:
 
 הפעל את הפקודה הבאה כדי להפעיל את הדשבורד:
 
-bash
-Copy
+
+
 python app.py
 פתח את הדשבורד בדפדפן:
 
 לאחר שהשרת מתחיל לפעול, פתח את הדפדפן שלך וגלוש לכתובת הבאה:
 
-Copy
+
 http://127.0.0.1:5000/
 השתמש בדשבורד:
 
@@ -46,7 +46,7 @@ http://127.0.0.1:5000/
 
 אם אתה רוצה להריץ את השרת על פורט אחר, תוכל לשנות את הפקודה להפעלה כך:
 
-bash
-Copy
+
+
 flask run --port=8080
 ואז גש לכתובת http://127.0.0.1:8080/.
