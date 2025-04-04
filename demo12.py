@@ -1,4 +1,5 @@
 """
+------טקסט-בדיקה----
 COMPLETE SECURITY MONITORING SYSTEM - SINGLE FILE SOLUTION
 Features:
 - Auto-installs all dependencies
